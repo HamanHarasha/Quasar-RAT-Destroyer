@@ -1,0 +1,13 @@
+C:\Users\Control\source\repos\Quasar RAT Destroyer\Quasar RAT Destroyer\bin\Debug\Quasar RAT Destroyer.exe.config
+C:\Users\Control\source\repos\Quasar RAT Destroyer\Quasar RAT Destroyer\bin\Debug\Quasar RAT Destroyer.exe
+C:\Users\Control\source\repos\Quasar RAT Destroyer\Quasar RAT Destroyer\bin\Debug\Quasar RAT Destroyer.pdb
+C:\Users\Control\source\repos\Quasar RAT Destroyer\Quasar RAT Destroyer\bin\Debug\Guna.UI2.dll
+C:\Users\Control\source\repos\Quasar RAT Destroyer\Quasar RAT Destroyer\obj\Debug\Quasar RAT Destroyer.csproj.AssemblyReference.cache
+C:\Users\Control\source\repos\Quasar RAT Destroyer\Quasar RAT Destroyer\obj\Debug\Quasar RAT Destroyer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Control\source\repos\Quasar RAT Destroyer\Quasar RAT Destroyer\obj\Debug\Quasar_RAT_Destroyer.Form1.resources
+C:\Users\Control\source\repos\Quasar RAT Destroyer\Quasar RAT Destroyer\obj\Debug\Quasar_RAT_Destroyer.Properties.Resources.resources
+C:\Users\Control\source\repos\Quasar RAT Destroyer\Quasar RAT Destroyer\obj\Debug\Quasar RAT Destroyer.csproj.GenerateResource.cache
+C:\Users\Control\source\repos\Quasar RAT Destroyer\Quasar RAT Destroyer\obj\Debug\Quasar RAT Destroyer.csproj.CoreCompileInputs.cache
+C:\Users\Control\source\repos\Quasar RAT Destroyer\Quasar RAT Destroyer\obj\Debug\Quasar RAT Destroyer.csproj.CopyComplete
+C:\Users\Control\source\repos\Quasar RAT Destroyer\Quasar RAT Destroyer\obj\Debug\Quasar RAT Destroyer.exe
+C:\Users\Control\source\repos\Quasar RAT Destroyer\Quasar RAT Destroyer\obj\Debug\Quasar RAT Destroyer.pdb
